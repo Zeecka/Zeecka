@@ -36,27 +36,7 @@ $ whoami --verbose
 
 <div align="center">
 
-<sub><b>OffSec · Offensive</b></sub><br/>
-![OSCP](https://img.shields.io/badge/OSCP-C75B12?style=for-the-badge)
-![OSWE](https://img.shields.io/badge/OSWE-2E9B8F?style=for-the-badge)
-![OSEP](https://img.shields.io/badge/OSEP-4A9E44?style=for-the-badge)
-![OSED](https://img.shields.io/badge/OSED-3C8C7E?style=for-the-badge)
-![OSWA](https://img.shields.io/badge/OSWA-D6336C?style=for-the-badge)
-![OSWP](https://img.shields.io/badge/OSWP-1E5FA8?style=for-the-badge)
-![OSCE3](https://img.shields.io/badge/OSCE%C2%B3-159895?style=for-the-badge)
-
-<br/>
-
-<sub><b>OffSec · Defensive</b></sub><br/>
-![OSTH](https://img.shields.io/badge/OSTH-7C4DD1?style=for-the-badge)
-![OSIR](https://img.shields.io/badge/OSIR-12A87A?style=for-the-badge)
-
-<br/>
-
-<sub><b>Foundations · Kali</b></sub><br/>
-![SEC-100](https://img.shields.io/badge/SEC--100-8A7B1F?style=for-the-badge)
-![SJD-100](https://img.shields.io/badge/SJD--100-2E4756?style=for-the-badge)
-![KLCP](https://img.shields.io/badge/KLCP-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OSCP](https://img.shields.io/badge/OSCP-C75B12?style=for-the-badge) ![OSWE](https://img.shields.io/badge/OSWE-2E9B8F?style=for-the-badge) ![OSEP](https://img.shields.io/badge/OSEP-4A9E44?style=for-the-badge) ![OSED](https://img.shields.io/badge/OSED-3C8C7E?style=for-the-badge) ![OSWA](https://img.shields.io/badge/OSWA-D6336C?style=for-the-badge) ![OSWP](https://img.shields.io/badge/OSWP-1E5FA8?style=for-the-badge) ![OSCE3](https://img.shields.io/badge/OSCE%C2%B3-159895?style=for-the-badge) ![OSTH](https://img.shields.io/badge/OSTH-7C4DD1?style=for-the-badge) ![OSIR](https://img.shields.io/badge/OSIR-12A87A?style=for-the-badge) ![SEC-100](https://img.shields.io/badge/SEC--100-8A7B1F?style=for-the-badge) ![SJD-100](https://img.shields.io/badge/SJD--100-2E4756?style=for-the-badge) ![KLCP](https://img.shields.io/badge/KLCP-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </div>
 
