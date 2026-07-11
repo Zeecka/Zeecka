@@ -109,12 +109,11 @@ $ whoami --verbose
 
 </div>
 
-> 🖼️ **[Aperi'Solve](https://www.aperisolve.fr/)** — a steganalysis web platform that runs
-> 16 analyzers in parallel, visualizes bit-layers, and ships an in-app steganography wiki
-> (available in 7 languages).
->
-> 📝 **[pwndoc-ng](https://github.com/pwndoc-ng/pwndoc-ng)** — a collaborative pentest
-> report generator that turns findings into clean, templated deliverables.
+> 🖼️ &nbsp;**[Aperi'Solve](https://www.aperisolve.fr/)** &nbsp;·&nbsp; *steganalysis web platform*<br/>
+> Runs **16 analyzers** in parallel, visualizes bit-layers, and ships an in-app steganography wiki *(7 languages)*.
+
+> 📝 &nbsp;**[pwndoc-ng](https://github.com/pwndoc-ng/pwndoc-ng)** &nbsp;·&nbsp; *collaborative pentest reporting*<br/>
+> Turns findings into clean, **templated deliverables**.
 
 <br/>
 
