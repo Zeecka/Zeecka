@@ -99,21 +99,31 @@ $ whoami --verbose
 ## 📌 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Zeecka/AperiSolve">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zeecka&repo=AperiSolve&theme=tokyonight&hide_border=true" alt="AperiSolve"/>
-</a>
-<a href="https://github.com/pwndoc-ng/pwndoc-ng">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pwndoc-ng&repo=pwndoc-ng&theme=tokyonight&hide_border=true" alt="pwndoc-ng"/>
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Zeecka/AperiSolve">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zeecka&repo=AperiSolve&theme=tokyonight&hide_border=true" alt="AperiSolve"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/pwndoc-ng/pwndoc-ng">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pwndoc-ng&repo=pwndoc-ng&theme=tokyonight&hide_border=true" alt="pwndoc-ng"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      🖼️ &nbsp;<b><a href="https://www.aperisolve.fr/">Aperi'Solve</a></b> &nbsp;·&nbsp; <sub><i>steganalysis web platform</i></sub><br/><br/>
+      Runs <b>16 analyzers</b> in parallel, visualizes bit-layers, and ships an in-app steganography wiki <i>(7 languages)</i>.
+    </td>
+    <td valign="top">
+      📝 &nbsp;<b><a href="https://github.com/pwndoc-ng/pwndoc-ng">pwndoc-ng</a></b> &nbsp;·&nbsp; <sub><i>collaborative pentest reporting</i></sub><br/><br/>
+      Turns findings into clean, <b>templated deliverables</b>.
+    </td>
+  </tr>
+</table>
 </div>
-
-> 🖼️ &nbsp;**[Aperi'Solve](https://www.aperisolve.fr/)** &nbsp;·&nbsp; *steganalysis web platform*<br/>
-> Runs **16 analyzers** in parallel, visualizes bit-layers, and ships an in-app steganography wiki *(7 languages)*.
-
-> 📝 &nbsp;**[pwndoc-ng](https://github.com/pwndoc-ng/pwndoc-ng)** &nbsp;·&nbsp; *collaborative pentest reporting*<br/>
-> Turns findings into clean, **templated deliverables**.
 
 <br/>
 
