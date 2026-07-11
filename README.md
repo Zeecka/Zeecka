@@ -22,12 +22,43 @@ $ whoami --verbose
 ```
 
 - 🔭 &nbsp;Researching **web security** — deobfuscation & dynamic-analysis tooling
-- 🛡️ &nbsp;French **pentester** · certified **OSCP** · **OSCE3**
-- 🧩 &nbsp;**CTF** challenge author & former player — ex-[**AperiKube**](https://www.aperikube.fr/) team
+- 🛡️ &nbsp;French **pentester** · **OSCP** & **OSCE³** certified — full cert wall below 👇
+- 🧩 &nbsp;**CTF** challenge author · [**AperiKube**](https://www.aperikube.fr/) team member (former active player)
 - 🏴 &nbsp;**[BreizhCTF](https://www.breizhctf.com/)** orga since **2023** — challenge-maker supervisor · tester & integrator · dev / sysadmin
 - 🖼️ &nbsp;Creator of [**Aperi'Solve**](https://www.aperisolve.fr/), the steganalysis platform used across the CTF scene
 - 💬 &nbsp;Ask me about **web security research** & **steganography**
 - ⚡ &nbsp;Fun fact: I turn *pixels*, *packets* and *packed binaries* into readable secrets
+
+<br/>
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+## 🎓 Certifications
+
+<div align="center">
+
+<sub><b>OffSec · Offensive</b></sub><br/>
+![OSCP](https://img.shields.io/badge/OSCP-C75B12?style=for-the-badge)
+![OSWE](https://img.shields.io/badge/OSWE-2E9B8F?style=for-the-badge)
+![OSEP](https://img.shields.io/badge/OSEP-4A9E44?style=for-the-badge)
+![OSED](https://img.shields.io/badge/OSED-3C8C7E?style=for-the-badge)
+![OSWA](https://img.shields.io/badge/OSWA-D6336C?style=for-the-badge)
+![OSWP](https://img.shields.io/badge/OSWP-1E5FA8?style=for-the-badge)
+![OSCE3](https://img.shields.io/badge/OSCE%C2%B3-159895?style=for-the-badge)
+
+<br/>
+
+<sub><b>OffSec · Defensive</b></sub><br/>
+![OSTH](https://img.shields.io/badge/OSTH-7C4DD1?style=for-the-badge)
+![OSIR](https://img.shields.io/badge/OSIR-12A87A?style=for-the-badge)
+
+<br/>
+
+<sub><b>Foundations · Kali</b></sub><br/>
+![SEC-100](https://img.shields.io/badge/SEC--100-8A7B1F?style=for-the-badge)
+![SJD-100](https://img.shields.io/badge/SJD--100-2E4756?style=for-the-badge)
+![KLCP](https://img.shields.io/badge/KLCP-367BF0?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
 
 <br/>
 
