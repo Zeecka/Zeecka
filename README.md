@@ -23,7 +23,8 @@ $ whoami --verbose
 
 - 🔭 &nbsp;Researching **web security** — deobfuscation & dynamic-analysis tooling
 - 🛡️ &nbsp;French **pentester** · certified **OSCP** · **OSCE3**
-- 🧩 &nbsp;**CTF** player & challenge author — [**AperiKube**](https://www.aperikube.fr/) team · **BreizhCTF**
+- 🧩 &nbsp;**CTF** challenge author & former player — ex-[**AperiKube**](https://www.aperikube.fr/) team
+- 🏴 &nbsp;**[BreizhCTF](https://www.breizhctf.com/)** orga since **2023** — challenge-maker supervisor · tester & integrator · dev / sysadmin
 - 🖼️ &nbsp;Creator of [**Aperi'Solve**](https://www.aperisolve.fr/), the steganalysis platform used across the CTF scene
 - 💬 &nbsp;Ask me about **web security research** & **steganography**
 - ⚡ &nbsp;Fun fact: I turn *pixels*, *packets* and *packed binaries* into readable secrets
