@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Zeecka&fontColor=c0caf5&fontSize=70&fontAlignY=35&animation=fadeIn&desc=French%20Pentester%20%C2%B7%20Security%20Researcher&descAlignY=58&descSize=18" alt="Zeecka banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3d59a1&height=200&section=header&text=Zeecka&fontColor=ffffff&fontSize=70&fontAlignY=35&stroke=7aa2f7&strokeWidth=1.5&desc=French%20Pentester%20%C2%B7%20Security%20Researcher&descAlignY=58&descSize=18" alt="Zeecka banner" width="100%"/>
 
 <!-- ===================== TYPING SUBTITLE ===================== -->
 <a href="https://x.com/zeecka_">
@@ -80,8 +80,8 @@ $ whoami --verbose
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zeecka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zeecka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zeecka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeecka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
 
 <br/>
 
@@ -103,12 +103,12 @@ $ whoami --verbose
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Zeecka/AperiSolve">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Zeecka&repo=AperiSolve&theme=tokyonight&hide_border=true" alt="AperiSolve"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zeecka&repo=AperiSolve&theme=tokyonight&hide_border=true" alt="AperiSolve"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/pwndoc-ng/pwndoc-ng">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=pwndoc-ng&repo=pwndoc-ng&theme=tokyonight&hide_border=true" alt="pwndoc-ng"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwndoc-ng&repo=pwndoc-ng&theme=tokyonight&hide_border=true" alt="pwndoc-ng"/>
       </a>
     </td>
   </tr>
@@ -130,7 +130,7 @@ $ whoami --verbose
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:1a1b27&height=120&section=footer" alt="footer" width="100%"/>
 
 <sub>⭐ <em>Thanks for stopping by — happy hacking!</em> ⭐</sub>
 
